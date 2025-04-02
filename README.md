@@ -1,4 +1,4 @@
-# SBMANet
+# AMHMF-Net
 
 We use the nnUNetv2 framework, you can download for the website: https://github.com/MIC-DKFZ/nnUNet. 
 
