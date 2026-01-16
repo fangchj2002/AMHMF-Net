@@ -54,4 +54,3 @@ class AMCS(nn.Module):
 
         return output
 
-
